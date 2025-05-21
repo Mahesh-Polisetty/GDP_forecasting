@@ -15,8 +15,11 @@ Global economic instability, inflation, and fluctuating indicators like unemploy
 ## 🛠️ Tech Stack
 
 Language: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Plotly, Scikit-learn 
+
 Machine Learning Model: RandomForestRegressor
+
 Deep Learning Model: Statsmodels (ARIMA)
 
 ---
@@ -24,6 +27,7 @@ Deep Learning Model: Statsmodels (ARIMA)
 ## 📂 Dataset Information
 
 Source: World Bank Open Data: https://data.worldbank.org/
+
 Indicators Used:
 -  GDP (Current US$)
 -  CPI (Consumer Price Index)
@@ -78,6 +82,7 @@ Results:
 ## 📉 DL Model: ARIMA
 
 Scope: Time-series only
+
 Used For:
 -  CPI Forecasting
 -  Energy Use & Oil Rents
